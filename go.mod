@@ -1,4 +1,4 @@
-module github.com/zededa/terraform-provider
+module github.com/zededa/terraform-provider/v2
 
 go 1.18
 
