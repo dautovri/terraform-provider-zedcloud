@@ -17,7 +17,7 @@ Supported resources are:
 - [ ] Image
 
 ## Documentation
-
+Test trigger 
 ### Schemas
 
 Documentation of all API endpoints and data schemas can be found under https://zedcontrol.zededa.net/api/v1/docs/.
