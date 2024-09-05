@@ -14,7 +14,6 @@ Supported resources are:
 - [x] Role
 - [x] Credential
 - [x] Patch Envelope
-- [ ] Image
 
 ## Documentation
 
