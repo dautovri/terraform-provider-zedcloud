@@ -8,9 +8,6 @@ Supported resources are:
 - [x] Edge-App-Instance
 - [x] Network
 - [x] Network-Instance
-- [x] Datastore
-- [x] Volume-Instance
-- [x] User
 - [x] Role
 - [x] Credential
 - [x] Patch Envelope
