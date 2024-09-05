@@ -12,11 +12,7 @@ Supported resources are:
 - [x] Volume-Instance
 - [x] User
 - [x] Role
-- [x] Credential
-- [x] Patch Envelope
-- [ ] Image
-
-## Documentation
+- [x] Credentia
 
 ### Schemas
 
