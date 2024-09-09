@@ -22,8 +22,5 @@ jobs:
       run: make test
       env:
         TF_VAR_zedcloud_token: ${{ secrets.TF_VAR_ZEDCLOUD_TOKEN }}
-        TF_VAR_zedcloud_url : ${{ vars.TF_VAR_zedcloud_url }}
-        TF_LOG : ${{ vars.TF_LOG }}
-        TF_LOG_PATH : ${{ vars.TF_LOG_PATH }}
-        TF_CLI_CONFIG_FILE: ${{ vars.TF_CLI_CONFIG_FILE }}
+        TF_VAR_zedcloud_url : ${{ vars.TF_VAR_ZEDCLOUD_URL }}
 
